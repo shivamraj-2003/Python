@@ -196,7 +196,6 @@ file=open('countries.txt','a')
 file.write('\nThis is the new country file')
 
 OOPS in python
-"""
 
 class Person:
     def __init__(self,name,age):
@@ -207,3 +206,6 @@ name=input("Enter your name: ")
 age=input('Enter your age: ')
 p1=Person(name,age)
 print(p1.name,p1.age)
+"""
+def function():
+    print('Hi Shivam!')
